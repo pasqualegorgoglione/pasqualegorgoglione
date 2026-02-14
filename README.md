@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gopa99
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, Pasquale Gorgoglione
+- Information Security office for Amadeus GmBh
+- Passionate of Cybersecurity,Networking, Scripting
 - 📫 How to reach me pakygorgoglione@gmail.com
 
 <!---
