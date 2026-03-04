@@ -1,5 +1,5 @@
 - 👋 Hi, Pasquale Gorgoglione
-- Information Security office for Amadeus GmBh
+- Information Security Officer for Amadeus GmBh
 - Passionate of Cybersecurity,Networking, Scripting
 - 📫 How to reach me pakygorgoglione@gmail.com
 
