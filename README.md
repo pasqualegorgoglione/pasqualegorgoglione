@@ -1,5 +1,5 @@
 - 👋 Hi, Pasquale Gorgoglione
-- Information Security Officer for Amadeus GmBh
+- Cyber Security Analyst for DLR GFR
 - Passionate of Cybersecurity,Networking, Scripting
 - 📫 How to reach me pakygorgoglione@gmail.com
 
